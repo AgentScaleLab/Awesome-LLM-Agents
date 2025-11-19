@@ -18,6 +18,7 @@ A short hands-on development resource for LLM agents
 
 ## Best Practices
 - [Tutorial] [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production).
+- [ICLR 2025] [Scaling Large Language Model-based Multi-Agent Collaboration](https://openreview.net/forum?id=K3n5jPkrU6).
 
 ## Multi-modal Agents
 - UI Assistants
