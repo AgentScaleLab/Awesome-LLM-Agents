@@ -14,7 +14,7 @@ A short hands-on development resource for LLM agents
 - [Codebase] [CrewAI: Fast and Flexible Multi-Agent Automation Framework](https://github.com/crewAIInc/crewAI).
 - [Codebase] [LangGraph: Build resilient language agents as graphs](https://github.com/langchain-ai/langgraph).
 
-## Agent Infra
+## Agent Infra (AgentOps)
 
 ## Best Practices
 - [Tutorial] [Startup technical guide: AI Agents](https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf).
