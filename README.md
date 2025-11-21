@@ -17,6 +17,7 @@ A short hands-on development resource for LLM agents
 ## Agent Infra
 
 ## Best Practices
+- [Tutorial] [Startup technical guide: AI Agents](https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf).
 - [Tutorial] [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production).
 - [ICLR 2025] [Scaling Large Language Model-based Multi-Agent Collaboration](https://openreview.net/forum?id=K3n5jPkrU6).
 - [NeurIPS 2025 Workshop] [Scaling Environments for Agents (SEA)](https://sea-workshop.github.io/).
